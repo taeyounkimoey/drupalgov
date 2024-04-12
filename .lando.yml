@@ -1,0 +1,4 @@
+name: drupal-gov-profile
+recipe: drupal10
+config:
+  webroot: web
