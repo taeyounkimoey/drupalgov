@@ -60,3 +60,7 @@
 /drush
 /drupal.phar
 /drupal
+
+# Theme
+/web/custom/uswds_base/node_modules
+/web/custom/uswds_base/css
